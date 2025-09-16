@@ -19,11 +19,11 @@ BorntoDev School is an online learning platform designed for beginners and anyon
 
 🎯 Learning Outcomes
 
-✅ Proficiency in using GitHub for version control, collaboration, and project management.
-✅ A solid understanding of programming fundamentals, including variables, loops, functions, and data structures.
-✅ Hands-on experience in building projects that reinforce theoretical knowledge.
-✅ Exposure to Front-end, Back-end, DevOps, and AI concepts through practical exercises.
-✅ The ability to break problems into smaller, manageable tasks and solve them efficiently.
+✅ Proficiency in using GitHub for version control, collaboration, and project management.\
+✅ A solid understanding of programming fundamentals, including variables, loops, functions, and data structures.\
+✅ Hands-on experience in building projects that reinforce theoretical knowledge.\
+✅ Exposure to Front-end, Back-end, DevOps, and AI concepts through practical exercises.\
+✅ The ability to break problems into smaller, manageable tasks and solve them efficiently.\
 ✅ Confidence in applying online learning platforms like BorntoDev School to self-directed skill development.
 
 ---
