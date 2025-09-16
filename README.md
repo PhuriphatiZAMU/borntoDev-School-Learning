@@ -13,7 +13,7 @@ BorntoDev School is an online learning platform designed for beginners and anyon
 
 | 🔢 **Topic**                     | 💡 **Description**                                                                                                           |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **1. GitHub for Dev**            | Learn how to use GitHub effectively for development, including version control, branching, pull requests, and collaboration. |
+| **1. GitHub for Developer**            | Learn how to use GitHub effectively for development, including version control, branching, pull requests, and collaboration. |
 
 ---
 
